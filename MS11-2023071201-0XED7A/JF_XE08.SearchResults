@@ -1,0 +1,130 @@
+---- AD_OF_NTC Matches (129 in 1 files) ----
+AD_NTC.c (app):#define AD_OF_NTC( R )  ( (U16)(10.0 / (10.0+R) * 1024 - 0.5) )
+AD_NTC.c (app):    AD_OF_NTC( 208.5977), // -40
+AD_NTC.c (app):    AD_OF_NTC( 197.0831), // -39
+AD_NTC.c (app):    AD_OF_NTC( 186.2746), // -38
+AD_NTC.c (app):    AD_OF_NTC( 176.1249), // -37
+AD_NTC.c (app):    AD_OF_NTC( 166.5899), // -36
+AD_NTC.c (app):    AD_OF_NTC( 157.6288), // -35
+AD_NTC.c (app):    AD_OF_NTC( 149.2037), // -34
+AD_NTC.c (app):    AD_OF_NTC( 141.2715), // -33
+AD_NTC.c (app):    AD_OF_NTC( 133.8234), // -32
+AD_NTC.c (app):    AD_OF_NTC( 126.8053), // -31
+AD_NTC.c (app):    AD_OF_NTC( 120.1967), // -30
+AD_NTC.c (app):    AD_OF_NTC( 113.9715), // -29
+AD_NTC.c (app):    AD_OF_NTC( 108.1053), // -28
+AD_NTC.c (app):    AD_OF_NTC( 102.5754), // -27
+AD_NTC.c (app):    AD_OF_NTC( 97.3605 ), // -26
+AD_NTC.c (app):    AD_OF_NTC( 92.441  ), // -25
+AD_NTC.c (app):    AD_OF_NTC( 87.7985 ), // -24
+AD_NTC.c (app):    AD_OF_NTC( 83.4159 ), // -23
+AD_NTC.c (app):    AD_OF_NTC( 79.2771 ), // -22
+AD_NTC.c (app):    AD_OF_NTC( 75.3673 ), // -21
+AD_NTC.c (app):    AD_OF_NTC( 71.6725 ), // -20
+AD_NTC.c (app):    AD_OF_NTC( 68.1798 ), // -19
+AD_NTC.c (app):    AD_OF_NTC( 64.8769 ), // -18
+AD_NTC.c (app):    AD_OF_NTC( 61.7526 ), // -17
+AD_NTC.c (app):    AD_OF_NTC( 58.7962 ), // -16
+AD_NTC.c (app):    AD_OF_NTC( 55.9977 ), // -15
+AD_NTC.c (app):    AD_OF_NTC( 53.348  ), // -14
+AD_NTC.c (app):    AD_OF_NTC( 50.8383 ), // -13
+AD_NTC.c (app):    AD_OF_NTC( 48.4605 ), // -12
+AD_NTC.c (app):    AD_OF_NTC( 46.2069 ), // -11
+AD_NTC.c (app):    AD_OF_NTC( 44.0704 ), // -10
+AD_NTC.c (app):    AD_OF_NTC( 42.0443 ), // -9
+AD_NTC.c (app):    AD_OF_NTC( 40.1223 ), // -8
+AD_NTC.c (app):    AD_OF_NTC( 38.2985 ), // -7
+AD_NTC.c (app):    AD_OF_NTC( 36.5675 ), // -6
+AD_NTC.c (app):    AD_OF_NTC( 34.9239 ), // -5
+AD_NTC.c (app):    AD_OF_NTC( 33.3629 ), // -4
+AD_NTC.c (app):    AD_OF_NTC( 31.88   ), // -3
+AD_NTC.c (app):    AD_OF_NTC( 30.4709 ), // -2
+AD_NTC.c (app):    AD_OF_NTC( 29.1314 ), // -1
+AD_NTC.c (app):    AD_OF_NTC( 27.8579 ), // 0
+AD_NTC.c (app):    AD_OF_NTC( 26.6528 ), // 1
+AD_NTC.c (app):    AD_OF_NTC( 25.5072 ), // 2
+AD_NTC.c (app):    AD_OF_NTC( 24.4179 ), // 3
+AD_NTC.c (app):    AD_OF_NTC( 23.3818 ), // 4
+AD_NTC.c (app):    AD_OF_NTC( 22.3961 ), // 5
+AD_NTC.c (app):    AD_OF_NTC( 21.4579 ), // 6
+AD_NTC.c (app):    AD_OF_NTC( 20.5647 ), // 7
+AD_NTC.c (app):    AD_OF_NTC( 19.7141 ), // 8
+AD_NTC.c (app):    AD_OF_NTC( 18.9038 ), // 9
+AD_NTC.c (app):    AD_OF_NTC( 18.1316 ), // 10
+AD_NTC.c (app):    AD_OF_NTC( 17.3957 ), // 11
+AD_NTC.c (app):    AD_OF_NTC( 16.694  ), // 12
+AD_NTC.c (app):    AD_OF_NTC( 16.0248 ), // 13
+AD_NTC.c (app):    AD_OF_NTC( 15.3863 ), // 14
+AD_NTC.c (app):    AD_OF_NTC( 14.7771 ), // 15
+AD_NTC.c (app):    AD_OF_NTC( 14.1956 ), // 16
+AD_NTC.c (app):    AD_OF_NTC( 13.6404 ), // 17
+AD_NTC.c (app):    AD_OF_NTC( 13.1102 ), // 18
+AD_NTC.c (app):    AD_OF_NTC( 12.6036 ), // 19
+AD_NTC.c (app):    AD_OF_NTC( 12.1196 ), // 20
+AD_NTC.c (app):    AD_OF_NTC( 11.657  ), // 21
+AD_NTC.c (app):    AD_OF_NTC( 11.2147 ), // 22
+AD_NTC.c (app):    AD_OF_NTC( 10.7917 ), // 23
+AD_NTC.c (app):    AD_OF_NTC( 10.3871 ), // 24
+AD_NTC.c (app):    AD_OF_NTC( 10.0    ), // 25
+AD_NTC.c (app):    AD_OF_NTC( 9.6295  ), // 26
+AD_NTC.c (app):    AD_OF_NTC( 9.2749  ), // 27
+AD_NTC.c (app):    AD_OF_NTC( 8.9353  ), // 28
+AD_NTC.c (app):    AD_OF_NTC( 8.61    ), // 29
+AD_NTC.c (app):    AD_OF_NTC( 8.2985  ), // 30
+AD_NTC.c (app):    AD_OF_NTC( 7.9999  ), // 31
+AD_NTC.c (app):    AD_OF_NTC( 7.7138  ), // 32
+AD_NTC.c (app):    AD_OF_NTC( 7.4395  ), // 33
+AD_NTC.c (app):    AD_OF_NTC( 7.1765  ), // 34
+AD_NTC.c (app):    AD_OF_NTC( 6.9242  ), // 35
+AD_NTC.c (app):    AD_OF_NTC( 6.6822  ), // 36
+AD_NTC.c (app):    AD_OF_NTC( 6.4499  ), // 37
+AD_NTC.c (app):    AD_OF_NTC( 6.227   ), // 38
+AD_NTC.c (app):    AD_OF_NTC( 6.0131  ), // 39
+AD_NTC.c (app):    AD_OF_NTC( 5.8076  ), // 40
+AD_NTC.c (app):    AD_OF_NTC( 5.6103  ), // 41
+AD_NTC.c (app):    AD_OF_NTC( 5.4208  ), // 42
+AD_NTC.c (app):    AD_OF_NTC( 5.2387  ), // 43
+AD_NTC.c (app):    AD_OF_NTC( 5.0636  ), // 44
+AD_NTC.c (app):    AD_OF_NTC( 4.8954  ), // 45
+AD_NTC.c (app):    AD_OF_NTC( 4.7337  ), // 46
+AD_NTC.c (app):    AD_OF_NTC( 4.5781  ), // 47
+AD_NTC.c (app):    AD_OF_NTC( 4.4285  ), // 48
+AD_NTC.c (app):    AD_OF_NTC( 4.2846  ), // 49
+AD_NTC.c (app):    AD_OF_NTC( 4.1461  ), // 50
+AD_NTC.c (app):    AD_OF_NTC( 4.0126  ), // 51
+AD_NTC.c (app):    AD_OF_NTC( 3.884   ), // 52
+AD_NTC.c (app):    AD_OF_NTC( 3.7603  ), // 53
+AD_NTC.c (app):    AD_OF_NTC( 3.6411  ), // 54
+AD_NTC.c (app):    AD_OF_NTC( 3.5263  ), // 55
+AD_NTC.c (app):    AD_OF_NTC( 3.4157  ), // 56
+AD_NTC.c (app):    AD_OF_NTC( 3.3091  ), // 57
+AD_NTC.c (app):    AD_OF_NTC( 3.2064  ), // 58
+AD_NTC.c (app):    AD_OF_NTC( 3.1074  ), // 59
+AD_NTC.c (app):    AD_OF_NTC( 3.012   ), // 60
+AD_NTC.c (app):    AD_OF_NTC( 2.92    ), // 61
+AD_NTC.c (app):    AD_OF_NTC( 2.8312  ), // 62
+AD_NTC.c (app):    AD_OF_NTC( 2.7456  ), // 63
+AD_NTC.c (app):    AD_OF_NTC( 2.663   ), // 64
+AD_NTC.c (app):    AD_OF_NTC( 2.5832  ), // 65
+AD_NTC.c (app):    AD_OF_NTC( 2.5063  ), // 66
+AD_NTC.c (app):    AD_OF_NTC( 2.432   ), // 67
+AD_NTC.c (app):    AD_OF_NTC( 2.3603  ), // 68
+AD_NTC.c (app):    AD_OF_NTC( 2.2911  ), // 69
+AD_NTC.c (app):    AD_OF_NTC( 2.2242  ), // 70
+AD_NTC.c (app):    AD_OF_NTC( 2.1596  ), // 71
+AD_NTC.c (app):    AD_OF_NTC( 2.0972  ), // 72
+AD_NTC.c (app):    AD_OF_NTC( 2.0369  ), // 73
+AD_NTC.c (app):    AD_OF_NTC( 1.9787  ), // 74
+AD_NTC.c (app):    AD_OF_NTC( 1.9223  ), // 75
+AD_NTC.c (app):    AD_OF_NTC( 1.8679  ), // 76
+AD_NTC.c (app):    AD_OF_NTC( 1.8152  ), // 77
+AD_NTC.c (app):    AD_OF_NTC( 1.7643  ), // 78
+AD_NTC.c (app):    AD_OF_NTC( 1.715   ), // 79
+AD_NTC.c (app):    AD_OF_NTC( 1.6674  ), // 80
+AD_NTC.c (app):    AD_OF_NTC( 1.6213  ), // 81
+AD_NTC.c (app):    AD_OF_NTC( 1.5767  ), // 82
+AD_NTC.c (app):    AD_OF_NTC( 1.5335  ), // 83
+AD_NTC.c (app):    AD_OF_NTC( 1.4918  ), // 84
+AD_NTC.c (app):    AD_OF_NTC( 1.4513  ), // 85
+AD_NTC.c (app):    AD_OF_NTC( 1.4121  ), // 86
+AD_NTC.c (app):    AD_OF_NTC( 1.3742  )  // 87

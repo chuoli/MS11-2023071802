@@ -1,0 +1,288 @@
+QualityReport
+2023年7月12日 15:53:29
+
+------ Start build(JF_CarRefrigerator, DefaultBuild) ------
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_main.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_systeminit.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_cgc.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_cgc_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_port.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_port_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_adc.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_adc_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_timer.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_timer_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_wdt.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_wdt_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_serial.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" r_cg_serial_user.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\Main_App.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\MyTimer.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\AD_NTC.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\MathLib.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\SystemCtrl.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\Uart.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\Communication.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\Check.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\cc78k0r.exe -cf10bbg "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" ..\APP\RLIN_driver.c -oDefaultBuild -_msgoff -qx2 -i..\APP -i. -zps -mm -mi0 -g2
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\lk78k0r.exe "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" -_msgoff -oDefaultBuild\JF_CarRefrigerator.lmf -gi00000000000000000000h -go84h,1FE00h,512 -gb78FFF0H -mi0 -ocdtr -s -pDefaultBuild\JF_CarRefrigerator.map "E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\lib78k0r\s0rll.rel" DefaultBuild\r_main.rel DefaultBuild\r_systeminit.rel DefaultBuild\r_cg_cgc.rel DefaultBuild\r_cg_cgc_user.rel DefaultBuild\r_cg_port.rel DefaultBuild\r_cg_port_user.rel DefaultBuild\r_cg_adc.rel DefaultBuild\r_cg_adc_user.rel DefaultBuild\r_cg_timer.rel DefaultBuild\r_cg_timer_user.rel DefaultBuild\r_cg_wdt.rel DefaultBuild\r_cg_wdt_user.rel DefaultBuild\Main_App.rel DefaultBuild\MyTimer.rel DefaultBuild\AD_NTC.rel DefaultBuild\MathLib.rel DefaultBuild\SystemCtrl.rel DefaultBuild\RLIN_driver.rel DefaultBuild\r_cg_serial.rel DefaultBuild\r_cg_serial_user.rel DefaultBuild\Uart.rel DefaultBuild\Communication.rel DefaultBuild\Check.rel -bcl78m -bcl78mf "-iE:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\lib78k0r"
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\oc78k0r.exe "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" DefaultBuild\JF_CarRefrigerator.lmf -_msgoff -oDefaultBuild\JF_CarRefrigerator.hex -kie -u0FFh -sDefaultBuild
+E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\Bin\vf78k0r.exe "-yE:\IDE\Renesas\Renesas Electronics\CS+\CACX\Device\RL78\Devicefile" -vx -_msgoff -oDefaultBuild\JF_CarRefrigerator.lmf -gi00000000000000000000h -go84h,1FE00h,512 -gb78FFF0H -mi0 -ocdtr -s -pDefaultBuild\JF_CarRefrigerator.map "E:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\lib78k0r\s0rll.rel" DefaultBuild\r_main.rel DefaultBuild\r_systeminit.rel DefaultBuild\r_cg_cgc.rel DefaultBuild\r_cg_cgc_user.rel DefaultBuild\r_cg_port.rel DefaultBuild\r_cg_port_user.rel DefaultBuild\r_cg_adc.rel DefaultBuild\r_cg_adc_user.rel DefaultBuild\r_cg_timer.rel DefaultBuild\r_cg_timer_user.rel DefaultBuild\r_cg_wdt.rel DefaultBuild\r_cg_wdt_user.rel DefaultBuild\Main_App.rel DefaultBuild\MyTimer.rel DefaultBuild\AD_NTC.rel DefaultBuild\MathLib.rel DefaultBuild\SystemCtrl.rel DefaultBuild\RLIN_driver.rel DefaultBuild\r_cg_serial.rel DefaultBuild\r_cg_serial_user.rel DefaultBuild\Uart.rel DefaultBuild\Communication.rel DefaultBuild\Check.rel -bcl78m -bcl78mf "-iE:\IDE\Renesas\Renesas Electronics\CS+\CACX\CA78K0R\V1.72\lib78k0r"
+*** Memory Area Information ***
+ROM : 398BH byte(s) real data
+RAM : 2F2H byte(s) real data
+*** Memory Area Information in ROM ***
+ROM : 398BH byte(s)
+*** Memory Area Information in RAM ***
+SELFRAM : 0H byte(s)
+TRACERAM : 0H byte(s)
+RAM : 2F2H byte(s)
+------ Build ended(Error:0, Warning:0)(JF_CarRefrigerator, DefaultBuild) ------
+
+
+
+--- System Information ---
+*OS Version
+ Microsoft Windows 10 专业版 (-, 10.0.19044, WOW64)
+*Language
+ 中文(中国)
+*.NET Framework Version
+ Microsoft .NET Framework 4 [.NET 4.6 / .NET 4.6.1] (4.0.30319.42000)
+
+--- Application Information ---
+*Product Name
+ CS+ for CA,CX
+*Package Version
+ V4.01.00  [28 Nov 2017]
+*Version
+ V5.03.00.02 [18 Oct 2017]
+*Assembly Version
+ 3.12.10.1
+*Sales Area
+ Japan
+*Product License
+ 
+*Execution Place
+ E:\IDE\Renesas\Renesas Electronics\CS+\CACX
+*Memory Usage
+ *Private Working Set
+  225308 MB
+ *Number of GDI Objects
+  2321
+ *Number of USER Objects
+  1413
+ *Opened Files
+  34 editors, 34 files, 277 KB
+
+--- Build Tool Plug-in Information ---
+V850 Build tool CA850 Plug-in
+ *Version
+  V5.01.00.01 [26 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCA850.dll
+78K0 Build tool CA78K0 Plug-in
+ *Version
+  V5.00.00.02 [03 Jul 2014]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCC78K0.dll
+RL78,78K0R Build tool CA78K0R Plug-in
+ *Version
+  V5.00.00.03 [30 Jun 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCC78K0R.dll
+V850E2 Build tool CX Plug-in
+ *Version
+  V5.00.00.02 [03 Jul 2014]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  BuildToolCX.dll
+
+--- Debug Tool Plug-in Information ---
+78K0 Emulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugTool78K0Emulator.dll
+RL78,78K0R Emulator Plug-in
+ *Version
+  V4.00.00.04 [25 Nov 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugTool78K0REmulator.dll
+RL78,78K0R Simulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugTool78K0RSimulator.dll
+78K0 Simulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugTool78K0Simulator.dll
+V850E2 Emulator Plug-in
+ *Version
+  V4.00.01.01 [12 Apr 2017]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugToolV850E2REmulator.dll
+V850E2 Simulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugToolV850E2RSimulator.dll
+V850 Emulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugToolV850Emulator.dll
+V850 Simulator Plug-in
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  DebugToolV850Simulator.dll
+
+--- Other Plug-in Information ---
+Code Generator Plug-in
+ *Version
+  V3.08.01.05 [02 Nov 2017]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  CodePart.dll
+Code Generator/PinView Plug-in
+ *Version
+  V1.10.01.06 [10 Nov 2017]
+ *Assembly Version
+  1.0.0.0
+ *DLL File Name
+  CodePart2.dll
+Pin Configurator Plug-in
+ *Version
+  V1.54.01.01 [31 Jul 2014]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PinConfig.dll
+Program Analyzer Plug-in
+ *Version
+  V4.03.00.05 [24 Nov 2016]
+ *Assembly Version
+  3.12.11.9
+ *DLL File Name
+  ProgramAnalyzer.dll
+IronPython Console Plug-in
+ *Version
+  V1.27.00.07 [22 Aug 2014]
+ *Assembly Version
+  1.6.10.23
+ *DLL File Name
+  PythonConsole.dll
+Editor plug-in DLL
+ *Version
+  V1.06.00.04 [01 Aug 2014]
+ *Assembly Version
+  1.1.0.0
+ *DLL File Name
+  SEditor.dll
+Stack Usage Tracer
+ *Version
+  V1.05.00.02 [30 Jul 2014]
+ *Assembly Version
+  1.30.11.15
+ *DLL File Name
+  Stk.dll
+Tool Interface Protocol (TIP) Plug-in
+ *Version
+  V1.24.00.02 [10 Dec 2012]
+ *Assembly Version
+  2.12.12.10
+ *DLL File Name
+  Tip.DLL
+Update Manager Plug-in
+ *Version
+  V2.02.00.05 [17 Jul 2014]
+ *Assembly Version
+  1.13.6.20
+ *DLL File Name
+  Update.dll
+
+Debug Tool Common Interface
+ *Version
+  V4.00.00.01 [27 Oct 2016]
+ *Assembly Version
+  3.12.10.1
+ *DLL File Name
+  CommonDebuggerInterface.dll
+Device Information Common Interface
+ *Version
+  V5.00.00.01 [20 Jun 2014]
+ *Assembly Version
+  3.0.0.0
+ *DLL File Name
+  DeviceInformation.dll
+
+--- Main Project Information ---
+D:\Work\Jifeng\MS11\SOFT\Project\JF_CarRefrigerator.mtpj
+Microcontroller Information
+ *R5F10BBG
+  *File Name: Version
+   RL78_Productlist.xml: V6.010000
+   R5F10BBG_common.xml: V1.13.00.XX.02
+   DR5F10BBG.DVF: V1.11
+   f13_bbx.ti: V1.01
+   -: -
+  
+
+Build Tool Information
+ *CA78K0R
+   * Version
+     V5.00.00.03 [30 Jun 2016]
+   * The Version of the Compiler Package
+     V1.72
+  
+
+Debug Tool Information
+ *RL78 E2 Lite
+  Debugger Library V4.00.00.04 [25 Nov 2016]
+  
+
+Other Tool Information
+ *None
+
+ *Pin Configurator
+ *Program Analyzer
+  *Version
+   V4.03.00.05 [24 Nov 2016]
+
+ *None
+
+ *Code Generator
+Other Information
+ *RL78/F13 Code Library
+  *Version
+   V2.03.01.06 [10 Nov 2017]
+  *Description
+   Code library for RL78/F13 code generation plugin.
+
+
